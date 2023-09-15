@@ -1,0 +1,66 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "label": "fname",
+      "value": "fname"
+    },
+    {
+      "id": 2,
+      "label": "lname",
+      "value": "lname"
+    },
+    {
+      "id": 3,
+      "label": "email",
+      "value": "email"
+    },
+    {
+      "id": 4,
+      "label": "mobile",
+      "value": "mobile"
+    },
+    {
+      "id": 5,
+      "label": "age",
+      "value": "age"
+    },
+    {
+      "id": 6,
+      "label": "city",
+      "value": "city"
+    }
+  ],
+  "data": [
+    {
+      "id": 1,
+      "label": "fname",
+      "value": "fname"
+    },
+    {
+      "id": 2,
+      "label": "lname",
+      "value": "lname"
+    },
+    {
+      "id": 3,
+      "label": "email",
+      "value": "email"
+    },
+    {
+      "id": 4,
+      "label": "mobile",
+      "value": "mobile"
+    },
+    {
+      "id": 5,
+      "label": "age",
+      "value": "age"
+    },
+    {
+      "id": 6,
+      "label": "city",
+      "value": "city"
+    }
+  ]
+}
